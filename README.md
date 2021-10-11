@@ -1,0 +1,2 @@
+# project-2020
+To design and develop a small Java console program for them, enabling them to select either a cash or card payment and enter the total amount of the sale. For cash payments, no additional charges are required. For card payments, the program will calculate the appropriate surcharge and display the updated total of the sale so that they may enter this directly into the card payment system.
